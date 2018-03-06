@@ -2,7 +2,7 @@
 {
   "version" : "2018-03-04",
   "amontAsked" : 7,
-  "maxPointsPerQuestion" : 100000,
+  "maxPointsPerQuestion" : 10000,
   "questions" : [
 
     {
