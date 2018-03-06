@@ -1,1 +1,139 @@
 
+{
+  "version" : "2018-03-04",
+  "amontAsked" : 6,
+  "maxPointsPerQuestion" : 10000,
+  "questions" : [
+
+    {
+      "id" : 0,
+      "question" : { "fi" : "mikä on traktori" },
+      "answers" : [
+        { "fi" : "A. traktori" },
+        { "fi" : "B. sipuli" },
+        { "fi" : "C. Orava" }
+      ],
+      "correctAnswerIndex" : 0,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 1,
+      "question" : { "fi" : "1 + 1 = 3" },
+      "answers" : [
+        { "fi" : "Oikein" },
+        { "fi" : "Väärin" }
+      ],
+      "correctAnswerIndex" : 1,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 2,
+      "question" : { "fi" : "5 + 5 =" },
+      "answers" : [
+        { "fi" : "A. 12" },
+        { "fi" : "B. 10" }
+      ],
+      "correctAnswerIndex" : 1,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 3,
+      "question" : { "fi" : "9 - 29" },
+      "answers" : [
+        { "fi" : "A. -10" },
+        { "fi" : "B. -20" },
+        { "fi" : "C. 0" },
+        { "fi" : "D. -9" }
+      ],
+      "correctAnswerIndex" : 1,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 4,
+      "question" : { "fi" : "mikä orava on" },
+      "answers" : [
+        { "fi" : "A. eläin" },
+        { "fi" : "B. orava" },
+        { "fi" : "C. ninja" }
+      ],
+      "correctAnswerIndex" : 2,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 5,
+      "question" : { "fi" : "8 + 8 =" },
+      "answers" : [
+        { "fi" : "A. 16" },
+        { "fi" : "B. 17" },
+        { "fi" : "C. 7" }
+      ],
+      "correctAnswerIndex" : 0,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 6,
+      "question" : { "fi" : "moi" },
+      "answers" : [
+        { "fi" : "A. hei" },
+        { "fi" : "B. moi" }
+      ],
+      "correctAnswerIndex" : 1,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 7,
+      "question" : { "fi" : "1 + 2 + 70 =" },
+      "answers" : [
+        { "fi" : "A. 73" },
+        { "fi" : "B. 83" },
+        { "fi" : "C. 77" },
+        { "fi" : "B. 99" }
+      ],
+      "correctAnswerIndex" : 0,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 8,
+      "question" : { "fi" : "100 - 79 - 20 =" },
+      "answers" : [
+        { "fi" : "A. 11" },
+        { "fi" : "B. 2" },
+        { "fi" : "C. 1" }
+      ],
+      "correctAnswerIndex" : 2,
+      "answerTime" : 5000
+    },
+
+    {
+      "id" : 9,
+      "question" : { "fi" : "mikä on ninjan nimi?" },
+      "answers" : [
+        { "fi" : "A. orava" },
+        { "fi" : "B. traktori" }
+      ],
+      "correctAnswerIndex" : 1,
+      "answerTime" : 5000
+    },
+    
+     {
+      "id" : 10,
+      "question" : { "fi" : "18 - 288 + 99- 8 = ?" },
+      "answers" : [
+        { "fi" : "A. -179" },
+        { "fi" : "B. -200" },
+        { "fi" : "C. 38" },
+        { "fi" : "D. 88" }
+      ],
+      "correctAnswerIndex" : 0,
+      "answerTime" : 5000
+    }
+  ]
+}
