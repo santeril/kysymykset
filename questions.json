@@ -134,6 +134,55 @@
       ],
       "correctAnswerIndex" : 0,
       "answerTime" : 5000
-    }
+    },
+    
+    {
+      "id" : 11,
+      "question" : { "fi" : "8 + 8 + 200 = ?" },
+      "answers" : [
+        { "fi" : "A. 200" },
+        { "fi" : "B. 216" },
+        { "fi" : "C. 16" }
+      ],
+      "correctAnswerIndex" : 1,
+      "answerTime" : 5000
+    },
+    
+    {
+      "id" : 12,
+      "question" : { "fi" : "Mikä talvi on?" },
+      "answers" : [
+        { "fi" : "A. syksy" },
+        { "fi" : "B. kesä" },
+        { "fi" : "C. talvi" },
+        { "fi" : "C. ei ainakaan talvi" }
+      ],
+      "correctAnswerIndex" : 3,
+      "answerTime" : 5000
+    },
+    
+     {
+      "id" : 13,
+      "question" : { "fi" : "8000 - 788 = ?" },
+      "answers" : [
+        { "fi" : "A. 7 188" },
+        { "fi" : "B. 7 212" },
+        { "fi" : "C. 6 999" }
+      ],
+      "correctAnswerIndex" : 1,
+      "answerTime" : 5000
+    },
+    
+    {
+      "id" : 13,
+      "question" : { "fi" : "99 - 98 = ?" },
+      "answers" : [
+        { "fi" : "A. 1" },
+        { "fi" : "B. 0" },
+        { "fi" : "C. 2" }
+      ],
+      "correctAnswerIndex" : 0,
+      "answerTime" : 5000
+     } 
   ]
 }
